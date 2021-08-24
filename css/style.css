@@ -1,8 +1,8 @@
 header {
-	background-color: #f789;
-	padding: 40px;
+  background-color: #f789;
+  padding: 40px;
 }
 
-.red {
-	color: red;
+.block {
+  background-color: #f45;
 }
