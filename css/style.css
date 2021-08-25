@@ -1,8 +1,12 @@
-header {
-  background-color: #f789;
-  padding: 40px;
+body {
+  background-color: #89b8b8;
 }
 
-.block {
-  background-color: #f45;
+.wrapper {
+  overflow: hidden;
+}
+
+.yellow {
+  font-size: 40px;
+  color: #96e449;
 }

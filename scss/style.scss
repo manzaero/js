@@ -1,13 +1,10 @@
-@import "_header";
-
-.block {
-	background-color: #f45;
+body {
+	background-color: rgb(137, 184, 184);
 }
-.block__item {
+.wrapper {
+	overflow: hidden;
 }
-.block__item2 {
-}
-.red {
-}
-.project {
+.yellow {
+	font-size: 40px;
+	color: hsl(90, 74%, 59%);
 }
