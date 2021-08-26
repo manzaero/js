@@ -90,3 +90,19 @@ userAge = Number(userAge);
 
 console.log(userAge);
 console.log(typeof userAge);*/
+/*
+let userAge="80"/"4";
+console.log(userAge);
+console.log(typeof userAge);
+*/
+/*
+//Логическое преобразование
+let userAge = "1";
+console.log(userAge);
+console.log(typeof userAge);
+
+userAge = Boolean(userAge);
+
+console.log(userAge);
+console.log(typeof userAge);*/
+
